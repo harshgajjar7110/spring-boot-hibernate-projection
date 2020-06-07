@@ -5,3 +5,6 @@ Spring Data query methods usually return one or multiple instances of the aggreg
 * Interface-based Projections
 * Closed Projections
 * Dynamic Projections
+
+For more information 
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#projections
